@@ -1,23 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Basic Form
+A Basic form created using React.
 
-## How to run:
-- Open a terminal/command line in a directory where you want to save the project to
-- Checkout the project
+---
 
-```
-git clone https://github.com/chrisblakely01/basic-react-forms.git
+## How to use:
+1. Clone the repo
+1. npm install
+1. npm start
 
-```
+---
 
-- Navigate to project in the terminal
-- Install the project:
-
-```
-npm install
-```
-
-- Start the project 
-
-```
-npm start
-```
+## Finished Website
+The link for the finished website is - [Click Here](https://react-basic-form-project1.netlify.app/)
